@@ -73,8 +73,6 @@
             width: 400px;
         }
 
-        @media (max-width: 900px) {
-
             .hero {
                 flex-direction: column;
                 text-align: center;
@@ -88,4 +86,3 @@
                 margin-top: 40px;
                 width: 280px;
             }
-        }
